@@ -71,4 +71,4 @@ class ReviewsController < ApplicationController
     def review_params
       params.require(:review).permit(:comment, :product_id)
     end
-end
+  end
