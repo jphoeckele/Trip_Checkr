@@ -1,6 +1,5 @@
-Here's the assignment:
+This was a project that Leif Steffenson, West Kraemer, and I created for our Trio Project at Wyncode. We were given 4 days to come up with a small site concept and use the Rails framework to create it. We then had to pitch the idea in front of a group of 50+ people. 
 
-We’re going to create an Amazon clone called Rainforest.
-We need a site to manage products. A product should have a name, description, and a price.
+We created Trip_Checkr as a way for someone to store their past vaction destinations and some basic info about them. The idea was that people's memories fade over time and a quick reminder of their own past vacations, thoughts, and reviews might be able to help them make their future vacation decisions. 
 
-Your team must create one of the following projects (Refer to the Trio documents provided within the public folder for project details) :
+We used Bootstrap and Rails to complete the site. 
